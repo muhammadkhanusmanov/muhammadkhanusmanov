@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hey everyone!!!<br/>My name is Mukhammad👤, I'm 21 years old.<br/>I am from [Surkahndaryo](https://en.wikipedia.org/wiki/Surxondaryo_Region) and studying [TUIT](https://uz.wikipedia.org/wiki/Toshkent_axborot_texnologiyalari_universiteti)
 ## CodeWars
 [![CodeWars](https://www.codewars.com/users/muhammadkhanusmanov/badges/large)]([https://www.codewars.com/users/muhammadkhanusmanov(https://www.codewars.com/users/muhammadkhanusmanov))
 
