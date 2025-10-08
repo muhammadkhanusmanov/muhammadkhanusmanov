@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hey everyone!!!<br/>My name is Mukhammad👤, I'm 21 years old.<br/>I am from [Surkahndaryo](https://en.wikipedia.org/wiki/Surxondaryo_Region) and studying [TUIT](https://uz.wikipedia.org/wiki/Toshkent_axborot_texnologiyalari_universiteti)
+
+
 ##LeetCode
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusername%3mukhammdusmanov&logo=leetcode&logoColor=white)
+![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusername%mukhammdusmanov&logo=leetcode&logoColor=white)
 
 ## CodeWars
 [![CodeWars](https://www.codewars.com/users/muhammadkhanusmanov/badges/large)]([https://www.codewars.com/users/muhammadkhanusmanov(https://www.codewars.com/users/muhammadkhanusmanov))
