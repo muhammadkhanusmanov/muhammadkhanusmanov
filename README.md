@@ -1,8 +1,8 @@
 # 💫 About Me:
 Hey everyone!!!<br/>My name is Mukhammad👤, I'm 21 years old.<br/>I am from [Surkahndaryo](https://en.wikipedia.org/wiki/Surxondaryo_Region) and studying [TUIT](https://uz.wikipedia.org/wiki/Toshkent_axborot_texnologiyalari_universiteti)
+<br/>
 
-
-##LeetCode
+## LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mukhammdusmanov?theme=dark&font=baloo&ext=heatmap)
 
 
