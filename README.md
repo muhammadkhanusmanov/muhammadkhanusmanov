@@ -3,7 +3,8 @@ Hey everyone!!!<br/>My name is Mukhammad👤, I'm 21 years old.<br/>I am from [S
 
 
 ##LeetCode
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=orange&label=LeetCode&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusername%mukhammdusmanov&logo=leetcode&logoColor=white)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mukhammdusmanov?theme=dark&font=baloo&ext=heatmap)
+
 
 ## CodeWars
 [![CodeWars](https://www.codewars.com/users/muhammadkhanusmanov/badges/large)]([https://www.codewars.com/users/muhammadkhanusmanov(https://www.codewars.com/users/muhammadkhanusmanov))
