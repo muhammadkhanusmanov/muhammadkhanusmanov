@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey everyone!!!<br/>My name is Mukhammad👤, I'm 22 years old.<br/>I am from [Surkahndaryo](https://en.wikipedia.org/wiki/Surxondaryo_Region).
+Hey everyone!!!<br/>My name is Mukhammad👤, I'm 23 years old.<br/>I am from [Surkahndaryo](https://en.wikipedia.org/wiki/Surxondaryo_Region).
 <br/>
 
 ## LeetCode
