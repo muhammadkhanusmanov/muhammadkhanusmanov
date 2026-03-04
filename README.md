@@ -17,6 +17,9 @@ Hey everyone!!!<br/>My name is Mukhammad👤, I'm 23 years old.<br/>I am from [S
 [![committers.top badge](https://user-badge.committers.top/uzbekistan_private/muhammadkhanusmanov.svg)](https://user-badge.committers.top/uzbekistan_private/muhammadkhanusmanov)
 [![GitHub followers](https://img.shields.io/github/followers/muhammadkhanusmanov?style=social)](https://github.com/muhammadkhanusmanov)
 ![](https://visitcount.itsvg.in/api?id=muhammadkhanusmanov&icon=0&color=1)![coding time](https://wakatime.com/badge/user/7abc18bc-d636-4cf1-ab88-4e1224d703ab.svg)
+![](https://github-readme-stats.vercel.app/api?username=muhammadkhanusmanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadkhanusmanov&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkhanusmanov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=muhammadkhanusmanov&theme=radical&no-frame=false&no-bg=true&margin-w=4)
